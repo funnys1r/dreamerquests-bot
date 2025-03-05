@@ -1,4 +1,5 @@
-在此注册：https://dreamerquests.partofdream.io/login?referralCodeForPOD=6aa5decd（使用 Twitter 登录）
+在此注册：https://dreamerquests.partofdream.io/login?referralCodeForPOD=6aa5decd
+ （使用 Twitter 登录）
 不要忘记连接社交并完成任务！
 账户用户ID和Cookies
 Python3 最新版
@@ -87,7 +88,7 @@ python main.py
 
 ## 许可证
 
-MIT License
+MIT 许可证
 
 ## 免责声明
 
